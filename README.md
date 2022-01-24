@@ -15,6 +15,10 @@ keras2.7.0
 
 Win10
 
+## tuning parameters
+
+<img src=.demo/1.png width=80% />
+
 ## result
 <img src=./Model_accuracy.png width=80% />
 <img src=./Model_loss.png width=80% />
