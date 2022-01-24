@@ -20,7 +20,6 @@ Win10
 <img src=./Model_loss.png width=80% />
 
 ## Demo
-<img src=./demo/1.png width=80% />
 <img src=./demo/2.png width=80% />
 <img src=./demo/3.png width=80% />
 <img src=./demo/4.png width=80% />
